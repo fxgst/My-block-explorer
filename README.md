@@ -1,7 +1,5 @@
 # EVM Block Explorer
 
-![EVM Block Explorer](https://icp.ninja/examples/_attachments/evm_block_explorer.png)
-
 Open this project in ICP Ninja:
 
 [![](https://icp.ninja/assets/open.svg)](https://icp.ninja/i?g=https://github.com/fxgst/My-block-explorer)
