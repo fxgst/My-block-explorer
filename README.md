@@ -4,7 +4,7 @@
 
 Open this project in ICP Ninja:
 
-[![](https://icp.ninja/assets/open.svg)](https://icp.ninja/i?url=https://github.com/fxgst/My-block-explorer)
+[![](https://icp.ninja/assets/open.svg)](https://icp.ninja/i?g=https://github.com/fxgst/My-block-explorer)
 
 The EVM Block Explorer example demonstrates how an ICP smart contract can obtain information directly from other blockchain networks. Using HTTPS outcalls, smart contracts on ICP can interact with other networks without needing to go through a third-party service such as a bridge or an oracle. Supported interactions with other chains include querying network data, signing transactions, and submitting transactions directly to other networks.
 In this example, you'll also see how to sign transactions with canister ECDSA or Schnorr signatures.
